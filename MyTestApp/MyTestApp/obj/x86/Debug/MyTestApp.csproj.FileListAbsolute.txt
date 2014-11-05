@@ -12,3 +12,6 @@ E:\Projects\GitHub\Test\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.Propert
 E:\Projects\GitHub\Test\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.csproj.GenerateResource.Cache
 E:\Projects\GitHub\Test\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.exe
 E:\Projects\GitHub\Test\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.pdb
+E:\Projects\GitHub\Test\Test\MyTestApp\MyTestApp\bin\Debug\ClassLibrary1.dll
+E:\Projects\GitHub\Test\Test\MyTestApp\MyTestApp\bin\Debug\ClassLibrary1.pdb
+E:\Projects\GitHub\Test\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.csprojResolveAssemblyReference.cache
