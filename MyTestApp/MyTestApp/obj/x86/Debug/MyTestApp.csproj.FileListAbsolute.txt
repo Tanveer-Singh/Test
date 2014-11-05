@@ -1,0 +1,7 @@
+E:\Projects\GitHub\Test\MyTestApp\MyTestApp\bin\Debug\MyTestApp.exe
+E:\Projects\GitHub\Test\MyTestApp\MyTestApp\bin\Debug\MyTestApp.pdb
+E:\Projects\GitHub\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.Form1.resources
+E:\Projects\GitHub\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.Properties.Resources.resources
+E:\Projects\GitHub\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.csproj.GenerateResource.Cache
+E:\Projects\GitHub\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.exe
+E:\Projects\GitHub\Test\MyTestApp\MyTestApp\obj\x86\Debug\MyTestApp.pdb
